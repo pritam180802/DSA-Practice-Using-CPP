@@ -12,3 +12,7 @@ Day 1 (25-02-2026)
 Day 2 (26-02-2026)
 - Removing two consecutive character by single character of a string (Recursion)
 - Printing the subsequences of a string (Recursion)
+
+Day 3 (01-03-2026)
+- Valid Parentheses (Recursion)
+- Equal Nunber of A's & B's (Recursion)
