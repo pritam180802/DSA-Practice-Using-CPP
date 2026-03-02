@@ -16,3 +16,7 @@ Day 2 (26-02-2026)
 Day 3 (01-03-2026)
 - Valid Parentheses (Recursion)
 - Equal Nunber of A's & B's (Recursion)
+
+Day 4 (02-03-2026)
+- Power Set (Recursion + Backtracking)
+- Permutation of a String (Recursion + Backtracking)
