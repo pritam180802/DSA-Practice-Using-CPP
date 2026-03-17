@@ -20,3 +20,7 @@ Day 3 (01-03-2026)
 Day 4 (02-03-2026)
 - Power Set (Recursion + Backtracking)
 - Permutation of a String (Recursion + Backtracking)
+
+Day 5 (17-03-2026)
+- N-Queen (Recursion + Backtracking)
+- Rat in a Maze(Recursion + Backtracking)
