@@ -24,3 +24,15 @@ Day 4 (02-03-2026)
 Day 5 (17-03-2026)
 - N-Queen (Recursion + Backtracking)
 - Rat in a Maze(Recursion + Backtracking)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/pritam180802/DSA-Practice-Using-CPP/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/pritam180802/DSA-Practice-Using-CPP/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
