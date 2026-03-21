@@ -25,3 +25,9 @@ Day 5 (17-03-2026)
 - N-Queen (Recursion + Backtracking)
 - Rat in a Maze(Recursion + Backtracking)
 
+Day 6 (20-03-26)
+- Sudoku Solver (Leetcode)
+
+Day 7 (21-03-2026)
+- Permutation with Spaces(GFG)
+
