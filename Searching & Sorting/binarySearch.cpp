@@ -1,4 +1,5 @@
 #include<iostream>
+#include<algorithm>
 using namespace std;
 
 bool bSearch(int start,int end,int key,int arr[]){
@@ -18,11 +19,12 @@ int main(){
     int size;
     cout<<"Enter the size of Array: ";
     cin>>size;
-    int arr[size];
+    int *arr = new int[size];
     for(int i=0;i<size;i++){
         cout<<"Enter the "<<i+1<<"'s element: ";
         cin>>arr[i];
     }
+    sort(arr,arr+size);
     int key;
     cout<<"Enter a elememt to search: ";
     cin>>key;
