@@ -30,4 +30,5 @@ Day 6 (20-03-26)
 
 Day 7 (21-03-2026)
 - Permutation with Spaces(GFG)
+- Binary Search
 
