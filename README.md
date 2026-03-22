@@ -32,3 +32,6 @@ Day 7 (21-03-2026)
 - Permutation with Spaces(GFG)
 - Binary Search
 
+Day 8 (22-03-26)
+- Permutation II (Leetcode)
+
