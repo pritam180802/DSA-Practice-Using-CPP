@@ -27,6 +27,7 @@ Day 5 (17-03-2026)
 
 Day 6 (20-03-26)
 - Sudoku Solver (Leetcode)
+- Permutaion (Leetcode)
 
 Day 7 (21-03-2026)
 - Permutation with Spaces(GFG)
