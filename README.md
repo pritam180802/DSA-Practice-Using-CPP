@@ -42,3 +42,11 @@ Day 9 (23-03-2026)
 Day 10 (24-02-26)
 - Combination Sum II (Leetcode)
 
+Day 11 (26-03-2026)   [Array Easy Problems]
+- Segregate 0s and 1s (GFG)
+- Sort colors (Leetcode)
+- Move Zeros (Leetcode)
+- Reverse a string (Leetcode)
+- Sort array by Parity (Leetcode)
+
+
