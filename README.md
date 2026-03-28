@@ -49,4 +49,6 @@ Day 11 (26-03-2026)   [Array Easy Problems]
 - Reverse a string (Leetcode)
 - Sort array by Parity (Leetcode)
 
+Day 12 (27-13-2026)
+- Single Number (Leetcode)
 
