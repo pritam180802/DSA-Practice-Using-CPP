@@ -52,3 +52,9 @@ Day 11 (26-03-2026)   [Array Easy Problems]
 Day 12 (27-13-2026)
 - Single Number (Leetcode)
 
+Day 13 (29-03-2026)
+- Kth largest element (GFG & Leetcode)
+- Kth smallest elememt (GFG)
+- Union Of array with duplicate (GFG)
+- Move all negative elememt to the left (GFG)
+
