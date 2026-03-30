@@ -58,3 +58,9 @@ Day 13 (29-03-2026)
 - Union Of array with duplicate (GFG)
 - Move all negative elememt to the left (GFG)
 
+Day 14 (30-03-2026)
+- Prefix Sum
+- Union of two sorted array (GFG)
+- Intersection of two sorted array with duplicate element(GFG)
+- Intersection of two array(Leetcode)
+
