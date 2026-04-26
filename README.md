@@ -67,3 +67,7 @@ Day 14 (30-03-2026)
 Day 15 (13-04-26)
 - Array Leaders (GFG)
 - Reverse array in groups (GFG)
+
+Day 16 (26-04-2026)
+- Leaders in an array (Leetcode)
+- Wave Array (GFG)
